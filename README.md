@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as freelancer <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AI & Meteverse Course<br>💬 Ask me about<br>⚡ Fun fact
+🔭 <b>I’m currently working as:</b> Jr. Frontend Developer, specializing in creating responsive and user-friendly web applications.<br>👯 <b>I’m looking to collaborate on:</b> Exciting frontend projects, open-source contributions, and innovative ideas that push the boundaries of web design.<br>🤝 <b>I’m looking for help with:</b> Exploring advanced concepts in AI, Metaverse technologies, and their applications in modern web development.<br>🌱<b> I’m currently learning:</b> AI & Metaverse Course to bridge the gap between cutting-edge technology and creative frontend solutions.<br>⚡<b> Fun fact:</b> I can turn coffee into code faster than you can say "debugging"! <br>
 
 
 ## 🌐 Socials:
